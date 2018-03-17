@@ -5,5 +5,11 @@
   "main": "index.js",
   "repository": "https://github.com/Alexis-De-La-Torre/amazon-best-sellers-scrapper.git",
   "author": "Alexis De La Torre <contacto@alexisdelatorre.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "cheerio": "^1.0.0-rc.2",
+    "fluture": "^8.0.2",
+    "ramda": "^0.25.0"
+  }
 }
