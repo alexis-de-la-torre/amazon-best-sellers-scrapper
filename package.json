@@ -1,6 +1,6 @@
 {
-  "name": "amazon-best-sellers-scrapper",
-  "version": "0.0.0",
+  "name": "amazon-best-sellers-scraper",
+  "version": "0.0.1",
   "description": "Scrappes best sellers from amazon and puts them in a postgres db",
   "main": "index.js",
   "repository": "https://github.com/Alexis-De-La-Torre/amazon-best-sellers-scrapper.git",
