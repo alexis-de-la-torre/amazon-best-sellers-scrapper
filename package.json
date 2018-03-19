@@ -10,6 +10,8 @@
     "axios": "^0.18.0",
     "cheerio": "^1.0.0-rc.2",
     "fluture": "^8.0.2",
+    "lodash.samplesize": "^4.2.0",
+    "prettyjson": "^1.2.1",
     "ramda": "^0.25.0"
   }
 }
